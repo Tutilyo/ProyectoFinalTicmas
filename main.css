@@ -31,6 +31,11 @@ p {
 
 }
 
+#clickAqui {
+    text-align: center;
+    font-size: medium;
+}
+
 
 
 #parrafointereses {
@@ -48,6 +53,9 @@ p {
     margin-top: 4em;
 }
 
+.text-center {
+    text-align: center;
+  }
 
 
 h1, h2, h3 {
